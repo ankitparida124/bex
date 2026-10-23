@@ -50,5 +50,20 @@ body{
     background-color:#010f19;
     margin-right:200px;
     border-radius:14px ;
+    padding-top:10px;
     
+}
+
+a{
+    text-decoration:none;
+    color:white;
+    font-size:30px;
+    margin-top:70px;
+    margin-bottom:40px;
+
+
+}
+.ps{
+    font-size:40px;
+    color:white;
 }
